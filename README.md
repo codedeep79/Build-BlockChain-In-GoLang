@@ -1,2 +1,2 @@
 # Build-BlockChain-In-GoLang
-Trong Bitcoin block thì Timestamp, PrevHashBlock, Hash được gọi là block header, nó tách biệt hoàn toàn với Data. Ở đây chúng ta đang cài đặt gộp chúng lại với nhau như đoạn code phía trên các bạn nhìn thấy.
+In Bitcoin Block Include Timestamp, PrevHashBlock, Hash Is Called block Header. They Separate Purely With Data. In Here, We Merged them Same As Repository Below
